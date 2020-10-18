@@ -21,8 +21,9 @@
 
 ## :rocket: Features
 
-- **React Native** — A lib that provides a way to create native apps for Android and iOS
-- **Express** — A web framework for Node
+- **Express** — A web framework for Node.
+- **React** — A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- **React Native** — A lib that provides a way to create native apps for Android and iOS.
 
 ## :information_source: Repositories
 
